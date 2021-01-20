@@ -1,0 +1,113 @@
+2
+es
+32
+Español
+Registros IPO
+Faltan datos;Error contraseña;Usuario duplicado;Usuario no encontrado;Error DNI;Error Fechas;
+Deben completarse todos los campos;Las contraseñas deben coincidir;Ya hay un usuario con ese DNI;Usuario no existe o contraseña incorrecta;Los DNI no coinciden;Las fechas no son validas;
+Nuevo usuario;Usuario borrado;Registro Completado;
+Se ha creado un nuevo usuario;Se ha borrado un usuario;Se ha agregado un registro;
+Aceptar
+Cancelar
+Principal
+Registro
+Ajustes
+Repetir Contraseña
+Numero SS:
+Contraseña:
+Borrar
+Todos los datos del usuario se borrarán definitivamente
+Si realmente quiere borrar el usuario escriba:
+DNI:
+Modificar
+Nombre:
+Apellidos:
+Cargo:
+Entrada
+Salida
+Nuevo registro:
+Evento:
+Observaciones:
+Idioma:
+Aplicar
+Habilitar sonido
+Fecha Inicio:
+Fecha Fin:
+11
+src/img/warning.png
+src/img/notificacion.png
+src/img/error.png
+src/img/reg.png
+src/img/home.png
+src/img/ajustes.png
+src/img/registro.png
+src/img/crearUsuario.png
+src/img/borrarUsuario.png
+src/img/modificarUsuario.png
+src/img/nuevoRegistro.png
+2
+src/snd/alert.wav
+src/snd/error.wav
+en
+32
+English
+IPO Records
+Missing Data;Error contraseña;Duplicate user;User not found;NIC Error;Dates error;
+All fields must be completed;Passwords must match;There is already a user with that NIC;User does not exist or wrong password;DNIs do not match;Dates are not valid;
+New User;User deleted;Registration Completed;
+A new user has been created;A user has been deleted;A record has been added;
+OK
+Cancel
+Main
+Records
+Settings
+Repeat Password:
+SS Number:
+Password:
+Delete
+All user data will be permanently deleted
+If you really want to delete the user type:
+NIC:
+Modify
+Name:
+Surname:
+Position:
+Entry
+Exit
+New record:
+Event:
+Observations:
+Language:
+Apply
+Enable sound
+Start date:
+End date:
+11
+src/img/warning.png
+src/img/notificacion.png
+src/img/error.png
+src/img/reg.png
+src/img/homeEn.png
+src/img/ajustesEn.png
+src/img/registroEn.png
+src/img/crearUsuarioEn.png
+src/img/borrarUsuarioEn.png
+src/img/modificarUsuarioEn.png
+src/img/nuevoRegistroEn.png
+2
+src/snd/alert.wav
+src/snd/error.wav
+
+
+
+
+
+
+
+
+
+
+
+
+
+
